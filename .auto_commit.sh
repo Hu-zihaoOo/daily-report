@@ -4,7 +4,6 @@ set -e
 
 REPO="/root/.openclaw/workspace"
 TODAY=$(date +%Y-%m-%d)
-REPORT_FILE="$REPORT_DIR/${TODAY}.md"
 
 cd "$REPO"
 
