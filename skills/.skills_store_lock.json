@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "skills": {
+    "organize": {
+      "name": "Organize",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=organize",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "bookmark-organizer": {
+      "name": "Bookmark Organizer",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=bookmark-organizer",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "notion-api-automation": {
+      "name": "Notion API",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=notion-api-automation",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "agent-control": {
+      "name": "Agent Control",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=agent-control",
+      "source": "skillhub",
+      "version": "0.1.0"
+    },
+    "agent-daily-paper": {
+      "name": "agent-daily-paper",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=agent-daily-paper",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "self-improving-agent-cn": {
+      "name": "Self Improving Agent CN",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=self-improving-agent-cn",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "notion-api-skill": {
+      "name": "Notion",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=notion-api-skill",
+      "source": "skillhub",
+      "version": "1.0.6"
+    },
+    "learning-system-skill": {
+      "name": "Learning System",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=learning-system-skill",
+      "source": "skillhub",
+      "version": "0.1.0"
+    },
+    "deep-learning": {
+      "name": "Deep Learning (Zettelkasten)",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=deep-learning",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "web-researcher": {
+      "name": "Web Researcher",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=web-researcher",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "para-second-brain": {
+      "name": "PARA Second Brain",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=para-second-brain",
+      "source": "skillhub",
+      "version": "2.0.1"
+    }
+  }
+}

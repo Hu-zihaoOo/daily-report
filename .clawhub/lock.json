@@ -1,0 +1,89 @@
+{
+  "version": 1,
+  "skills": {
+    "tavily-search": {
+      "version": "1.0.0",
+      "installedAt": 1773129393223
+    },
+    "summarize": {
+      "version": "1.0.0",
+      "installedAt": 1773129406271
+    },
+    "agent-browser": {
+      "version": "0.2.0",
+      "installedAt": 1773129432656
+    },
+    "find-skills": {
+      "version": "0.1.0",
+      "installedAt": 1773129449820
+    },
+    "github": {
+      "version": "1.0.0",
+      "installedAt": 1773129466332
+    },
+    "obsidian": {
+      "version": "1.0.0",
+      "installedAt": 1773129487190
+    },
+    "weather": {
+      "version": "1.0.0",
+      "installedAt": 1773129508263
+    },
+    "tencentcloud-lighthouse-skill": {
+      "version": "1.0.0",
+      "installedAt": 1773129523775
+    },
+    "tencent-docs": {
+      "version": "1.0.6",
+      "installedAt": 1773129532760
+    },
+    "tencent-cos-skill": {
+      "version": "1.0.6",
+      "installedAt": 1773129536500
+    },
+    "organize": {
+      "version": "1.0.0",
+      "installedAt": 1773289465649
+    },
+    "bookmark-organizer": {
+      "version": "1.0.0",
+      "installedAt": 1773289502939
+    },
+    "notion-api-automation": {
+      "version": "1.0.0",
+      "installedAt": 1773289529074
+    },
+    "agent-control": {
+      "version": "0.1.0",
+      "installedAt": 1773317892662
+    },
+    "agent-daily-paper": {
+      "version": "1.0.0",
+      "installedAt": 1773317896353
+    },
+    "self-improving-agent-cn": {
+      "version": "1.0.0",
+      "installedAt": 1773319500640
+    },
+    "notion-api-skill": {
+      "version": "1.0.6",
+      "installedAt": 1773733599045
+    },
+    "learning-system-skill": {
+      "version": "0.1.0",
+      "installedAt": 1773893981664
+    },
+    "deep-learning": {
+      "version": "1.0.0",
+      "installedAt": 1773893988870
+    },
+    "web-researcher": {
+      "version": "1.0.0",
+      "installedAt": 1773893994916
+    },
+    "para-second-brain": {
+      "version": "2.0.1",
+      "installedAt": 1773894004196
+    }
+  }
+}

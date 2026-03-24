@@ -1,0 +1,33 @@
+warning: adding embedded git repository: agents/archivist
+hint: You've added another git repository inside your current repository.
+hint: Clones of the outer repository will not contain the contents of
+hint: the embedded repository and will not know how to obtain it.
+hint: If you meant to add a submodule, use:
+hint: 
+hint: 	git submodule add <url> agents/archivist
+hint: 
+hint: If you added this path by mistake, you can remove it from the
+hint: index with:
+hint: 
+hint: 	git rm --cached agents/archivist
+hint: 
+hint: See "git help submodule" for more information.
+error: 'agents/crash-analyzer/' does not have a commit checked out
+fatal: adding files failed
+warning: adding embedded git repository: agents/archivist
+hint: You've added another git repository inside your current repository.
+hint: Clones of the outer repository will not contain the contents of
+hint: the embedded repository and will not know how to obtain it.
+hint: If you meant to add a submodule, use:
+hint: 
+hint: 	git submodule add <url> agents/archivist
+hint: 
+hint: If you added this path by mistake, you can remove it from the
+hint: index with:
+hint: 
+hint: 	git rm --cached agents/archivist
+hint: 
+hint: See "git help submodule" for more information.
+error: 'agents/crash-analyzer/' does not have a commit checked out
+fatal: adding files failed
+[Mon Mar 23 09:00:01 PM CST 2026] 无变更，跳过提交
